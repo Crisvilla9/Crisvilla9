@@ -7,9 +7,9 @@
 
 <h2> Certifications </h2>
 
-  - [CompTIA Security+](https://www.credly.com/earner/earned/badge/4023128f-8361-4778-a0e1-81160d90f7d5)
-  - [Splunk User](https://www.credly.com/badges/b179f8fb-aabc-4f0c-97d7-1e2c26813f11)
-  - [Microsoft Azure AZ-900](https://www.credly.com/badges/449a6a0a-02e6-4fae-af83-5172dae712d6)
+  - [CompTIA Security+](https://www.credly.com/badges/4023128f-8361-4778-a0e1-81160d90f7d5/public_url)
+  - [Splunk User](https://www.credly.com/badges/b179f8fb-aabc-4f0c-97d7-1e2c26813f11/public_url)
+  - [Microsoft Azure AZ-900](https://www.credly.com/badges/449a6a0a-02e6-4fae-af83-5172dae712d6/public_url)
   
   
 <h2> 🤳 Connect with me:</h2>
