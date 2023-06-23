@@ -5,7 +5,7 @@
   - [FIM (File Integrity Monitor)](https://github.com/Crisvilla9/FileIntegrityMonitor)
 - <b>Nessus Essentials</b>
    - [Vulnerability Scans against a Windows 10 Host VM](https://github.com/Crisvilla9/Nessus-Vulnerability-Assessment)
-- <b>Microsoft Sentinel SIEM, Log Analytics & Powershell</b>
+- <b>Sentinel SIEM, Log Analytics & Powershell</b>
    - [Configured a Log Analytics workspace in Azure to ingest custom logs with the intent of mapping geo data in Sentinel](https://github.com/Crisvilla9/Nessus-Vulnerability-Assessment)
 <h2> Certifications </h2>
 
