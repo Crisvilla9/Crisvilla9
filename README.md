@@ -9,7 +9,7 @@
    - [Configured a Log Analytics workspace in Azure to ingest custom logs with the intent of mapping geo data in Sentinel](https://github.com/Crisvilla9/Azure-Sentinel)
 - <b>NIST 800-53 Template Interview Guide Controls</b>
    - [Sample page Template for all my NIST 800-53 control families that summarize 
-     the control test and discussion of each control.](https://github.com/Crisvilla9/Azure-Sentinel)
+     the control test and discussion of each control.](https://github.com/Crisvilla9/NIST-800-53-Audit)
 
 
 
