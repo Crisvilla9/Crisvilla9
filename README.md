@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cristian! <br/>Security Engineer building practical security and compliance tools</a>
+<h1>Hi, I'm Cristian Villarreal, <br/>Security Engineer building practical security and compliance tools</a>
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Used a short PowerShell script to validate security controls, collect audit evidence, and support compliance testing.</b>
