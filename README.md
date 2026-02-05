@@ -24,12 +24,8 @@
   
   
 <h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Crisvilla9 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Crisvilla9 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
-
   
-[linkedin]: https://linkedin.com/in/cristianvilla
-[discord]: https://discordapp.com/users/CristianV9#0838
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristianvilla)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/CristianV9#0838)
 
   
