@@ -1,7 +1,7 @@
 <h1>Hi, I'm Cristian Villarreal, <br/>Security Engineer building practical security and compliance tools</a>
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Used a short PowerShell script to validate security controls, collect audit evidence, and support compliance testing.</b>
+- <b>Implemented File Integrity Monitoring aligned to NIST SI-7 to detect unauthorized system changes and produce audit-ready evidence</b>
   - [FIM (Unauthorized modification detection)](https://github.com/Crisvilla9/FileIntegrityMonitor)
 - <b>Performed a vulnerability assessment using Nessus and translated findings into risk severity and remediation recommendations.</b>
    - [Remediation tracking](https://github.com/Crisvilla9/Nessus-Vulnerability-Assessment)
