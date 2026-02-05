@@ -18,9 +18,9 @@
 
  
   - [CISSP (in progress)]
-  - [CompTIA Security+](https://www.credly.com/badges/4023128f-8361-4778-a0e1-81160d90f7d5/public_url)
-  -[Harvard Business School Leadership Principles]
-  -[ITILv4]
+  - [CompTIA Security+]
+  - [Harvard Business School Leadership Principles]
+  - [ITILv4]
   - [Microsoft Azure AZ-900]
   
   
