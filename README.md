@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cristian! <br/>Security Engineer</a>
+<h1>Hi, I'm Cristian! <br/>Security Engineer building practical security and compliance tools</a>
 <h2>👨‍💻 Projects:</h2>
 
 - <b>PowerShell</b>
