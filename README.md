@@ -13,8 +13,9 @@
 
 
 
-<h2> Certifications </h2>
+<h2> Learning and Development </h2>
 
+   [Verified by Credly](https://www.credly.com/users/cristian-villarreal.179923c4/badges#credly)
  
   - [CISSP (in progress)]
   - [CompTIA Security+]
