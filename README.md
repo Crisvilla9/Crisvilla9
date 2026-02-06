@@ -14,15 +14,14 @@
 
 
 <h2> Learning and Development </h2>
-
-   [Verified by Credly](https://www.credly.com/users/cristian-villarreal.179923c4/badges#credly)
  
   - [CISSP (in progress)]
   - [CompTIA Security+]
   - [Harvard Business School Leadership Principles]
   - [ITILv4]
   - [Microsoft Azure AZ-900]
-  
+
+    [Verified by Credly](https://www.credly.com/users/cristian-villarreal.179923c4/badges#credly)
   
 <h2> 🤳 Connect with me:</h2>
   
